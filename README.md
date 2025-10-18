@@ -6,7 +6,7 @@ The tasks involved working with sample tables (`machines` and `log_in_attempts`)
 
 
 
-## 🧩 Tasks Overview
+## Tasks Overview
 
 ### Task 1: Display All Columns in the Machines Table
 Viewed all available data from the `machines` table to understand the structure of the dataset and the type of information stored.  
@@ -44,7 +44,7 @@ This process highlighted the usefulness of SQL sorting for identifying earliest 
 
 
 
-## 🧠 Conclusion / What I Learned
+## Conclusion / What I Learned
 During this project, I gained hands-on experience with essential SQL concepts and commands, including:
 
 - Using the `SELECT` statement to retrieve data from tables  
